@@ -25,9 +25,4 @@ A passionate **MERN Stack Web Developer** dedicated to building robust, scalable
 
 ---
 
-### 📊 My GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amulya2-K&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amulya2-K&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
+<p align="center"><b>✨ Debugging the present, compiling the future. ✨</b></p>
