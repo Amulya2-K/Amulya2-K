@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Amulya! 👋
 
 A passionate **Web Developer** dedicated to building clean, user-friendly applications and solving complex problems through Data Structures and Algorithms (DSA).
 
@@ -6,7 +6,7 @@ A passionate **Web Developer** dedicated to building clean, user-friendly applic
 - 🌱 I’m currently diving deep into **Advanced Data Structures, Algorithms, and Full-Stack Web Architecture**.
 - 💡 I love optimizing database queries and cracking algorithmic challenges.
 - 💬 Ask me about **HTML, CSS, JavaScript, MySQL, and DSA problem-solving**.
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **kokkulaamulya4@gmail.com**
 
 ---
 
