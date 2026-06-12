@@ -5,7 +5,7 @@ A passionate **MERN Stack Web Developer** dedicated to building robust, scalable
 - 🌱 I’m currently diving deep into **Advanced Data Structures, System Design, and Full-Stack Web Architecture**.
 - 💡 I love building efficient RESTful APIs, crafting interactive UIs, and cracking algorithmic challenges.
 - 💬 Ask me about **MongoDB, Express.js, React, Node.js, MySQL, and DSA problem-solving**.
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **kokkulaamulay4@gmail.com**
 
 ---
 
